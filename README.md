@@ -1,5 +1,5 @@
 
-#Twitter Sentiment Analysis for Stock Tickers
+# Twitter Sentiment Analysis for Stock Tickers
   This Jupyter Notebook scrapes tweets related to a given stock ticker symbol from Twitter, performs sentiment analysis on the tweet text, and stores the results in a pandas DataFrame.
   
 ## Features
